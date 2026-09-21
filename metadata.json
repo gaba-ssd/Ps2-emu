@@ -1,0 +1,7 @@
+{
+  "name": "PS2 Emulator 32-Bit",
+  "description": "PlayStation 2 emulator optimized for Android 32-bit architecture (ARMv7) and older low-spec devices with HLE BIOS, frame skip, and customizable controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
